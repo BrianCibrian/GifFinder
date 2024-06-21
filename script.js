@@ -1,7 +1,7 @@
 console.log("Script running");
 
 const userApiKey = prompt(
-  "Please paste your Giphy API key here.  See the lesson notes for instructions on how to get one.  The code will not work without this."
+  "Please paste your Giphy API key here. The code will not work without this."
 );
 
 // Helper function - gets a random integer up to (but not including) the maximum
